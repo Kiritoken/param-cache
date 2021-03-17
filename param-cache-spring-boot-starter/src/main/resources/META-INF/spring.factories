@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.eli.param.cache.starter.autoconfig.ParamCacheAutoConfiguration
+org.springframework.context.ApplicationListener=\
+com.eli.param.cache.starter.listener.EnvironmentPrepareListener
